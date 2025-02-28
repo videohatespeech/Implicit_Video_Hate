@@ -9,6 +9,9 @@ The existing research has primarily focused on text and image-based hate speech 
 Frame Extraction of Videos.ipynb contains the code for extracting frames from the videos.
 
 # Overall Architecture of the Model
+We propose a two-stage contrastive learning multimodal framework for detecting hateful content in videos as shown in the figure below. Our approach comprises three key steps: (i) preprocessing to extract audio, text, and visual data; (ii) feature extraction using modality-specific encoders; and (iii) contrastive learning to align representations, culminating in a multimodal classifier.
+![Group 258](https://github.com/user-attachments/assets/39361ac4-ff62-4e15-99b1-2024bbcc7c73)
+
 
 # Dataset 
 

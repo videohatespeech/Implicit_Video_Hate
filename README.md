@@ -11,13 +11,13 @@ We propose a two-stage contrastive learning multimodal framework for detecting h
 ![Group 258](https://github.com/user-attachments/assets/39361ac4-ff62-4e15-99b1-2024bbcc7c73)
 
 # Overview
-Run [Frame Extraction of Videos.ipynb](https://raw.githubusercontent.com/videohatespeech/Implicit_Video_Hate/refs/heads/main/Codes/Frame%20Extraction%20of%20Videos.ipynb) for extracting frames from the videos.</br>
+Run [Frame Extraction of Videos.ipynb](https://github.com/videohatespeech/Implicit_Video_Hate/blob/main/Codes/Frame%20Extraction%20of%20Videos.ipynb) for extracting frames from the videos.</br>
 Run [Audio Extraction from Videos.ipynb](https://github.com/videohatespeech/Implicit_Video_Hate/blob/main/Codes/Audio%20Extraction%20from%20Videos.ipynb) for extracting audio from videos</br>
-Run [Text Extraction from Audio.ipynb]() for extracting transcripts from audio files</br>
-Run [Emotion and Sentiment Scores.ipynb]() for getting emotion and sentiment scores from transcripts</br>
-Run [Caption Generation.ipynb]() for generating captions from image frames</br>
-Run [Extracting ImageBInd Features.ipynb]() for getting the ImageBind embeddings of the three modalities</br>
-Run [Multistage Contrastive Learning]() for running the model
+Run [Text Extraction from Audio.ipynb](https://github.com/videohatespeech/Implicit_Video_Hate/blob/main/Codes/Text%20Extraction%20from%20Audio.ipynb) for extracting transcripts from audio files</br>
+Run [Emotion and Sentiment Scores.ipynb](https://github.com/videohatespeech/Implicit_Video_Hate/blob/main/Codes/Emotion%20and%20Sentiment%20Scores.ipynb) for getting emotion and sentiment scores from transcripts</br>
+Run [Caption Generation.ipynb](https://github.com/videohatespeech/Implicit_Video_Hate/blob/main/Codes/Caption%20Generation.ipynb) for generating captions from image frames</br>
+Run [Extracting ImageBind Features.ipynb](https://github.com/videohatespeech/Implicit_Video_Hate/blob/main/Codes/Extracting%20ImageBind%20Features.ipynb) for getting the ImageBind embeddings of the three modalities</br>
+Run [Multistage Contrastive Learning](https://github.com/videohatespeech/Implicit_Video_Hate/blob/main/Codes/Multistage%20Contrastive%20Learning.ipynb) for running the model
 
 # Dataset 
 

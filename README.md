@@ -11,7 +11,7 @@ We propose a two-stage contrastive learning multimodal framework for detecting h
 ![Group 258](https://github.com/user-attachments/assets/39361ac4-ff62-4e15-99b1-2024bbcc7c73)
 
 # Overview
-[Frame Extraction of Videos.ipynb]([Codes/Frame Extraction of Videos.ipynb](https://raw.githubusercontent.com/videohatespeech/Implicit_Video_Hate/refs/heads/main/Codes/Frame%20Extraction%20of%20Videos.ipynb) contains the code for extracting frames from the videos.
+[Frame Extraction of Videos.ipynb](https://raw.githubusercontent.com/videohatespeech/Implicit_Video_Hate/refs/heads/main/Codes/Frame%20Extraction%20of%20Videos.ipynb) contains the code for extracting frames from the videos.
 
 # Dataset 
 

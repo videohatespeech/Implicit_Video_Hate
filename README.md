@@ -11,13 +11,14 @@ We propose a two-stage contrastive learning multimodal framework for detecting h
 ![Group 258](https://github.com/user-attachments/assets/39361ac4-ff62-4e15-99b1-2024bbcc7c73)
 
 # Overview
-Run [Frame Extraction of Videos.ipynb](https://raw.githubusercontent.com/videohatespeech/Implicit_Video_Hate/refs/heads/main/Codes/Frame%20Extraction%20of%20Videos.ipynb) for extracting frames from the videos.
-Run [Audio Extraction from Videos.ipynb](https://github.com/videohatespeech/Implicit_Video_Hate/blob/main/Codes/Audio%20Extraction%20from%20Videos.ipynb) for extracting audio from videos
-Run [Text Extraction from Audio.ipynb]() for extracting transcripts from audio files
-Run [Emotion and Sentiment Scores.ipynb]() for getting emotion and sentiment scores from transcripts
-Run [Caption Generation.ipynb]() for generating captions from image frames
-Run [Extracting ImageBInd Features.ipynb]() for getting the ImageBind embeddings of the three modalities
+Run [Frame Extraction of Videos.ipynb](https://raw.githubusercontent.com/videohatespeech/Implicit_Video_Hate/refs/heads/main/Codes/Frame%20Extraction%20of%20Videos.ipynb) for extracting frames from the videos.</br>
+Run [Audio Extraction from Videos.ipynb](https://github.com/videohatespeech/Implicit_Video_Hate/blob/main/Codes/Audio%20Extraction%20from%20Videos.ipynb) for extracting audio from videos</br>
+Run [Text Extraction from Audio.ipynb]() for extracting transcripts from audio files</br>
+Run [Emotion and Sentiment Scores.ipynb]() for getting emotion and sentiment scores from transcripts</br>
+Run [Caption Generation.ipynb]() for generating captions from image frames</br>
+Run [Extracting ImageBInd Features.ipynb]() for getting the ImageBind embeddings of the three modalities</br>
 Run [Multistage Contrastive Learning]() for running the model
+
 # Dataset 
 
 | Properties  | Non Hate | Implicit Hate | Explicit Hate |

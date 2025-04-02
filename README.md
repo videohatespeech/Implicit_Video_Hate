@@ -21,6 +21,8 @@ Run [Multistage Contrastive Learning](https://github.com/videohatespeech/Implici
 
 # Dataset 
 
+The dataset can be accessed at: [ImpliHateVid Dataset](https://indianinstituteoftechindore-my.sharepoint.com/my?id=%2Fpersonal%2Fphd2101201005%5Fiiti%5Fac%5Fin%2FDocuments%2FImpliHateVid).
+
 | Properties  | Non Hate | Implicit Hate | Explicit Hate |
 | ------------- | ------------- | ------------- | ------------- |
 | Video count  | 1000 (49.78%)  | 509 (25.36%) | 500 (24.89%) |

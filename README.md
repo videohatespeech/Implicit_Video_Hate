@@ -63,7 +63,7 @@ Access to the dataset is restricted to academic and research purposes only. Plea
 ## 📬 Access Request Procedure
 
 1. **Use your institutional email** for all communications.  
-   > Requests from personal email addresses may not be ignored.
+   > Requests from personal email addresses may be ignored.
 
 2. Fill out the **[Dataset Agreement Form](https://docs.google.com/document/d/1Cb_f-xhOobgpnn_u2lOB6_m1lCHlDNCt/edit)**.
 

@@ -51,8 +51,8 @@ Access to the dataset is restricted to academic and research purposes only. Plea
 - You must store the dataset in **secure environments** and prevent access by unauthorized individuals.
 
 ### 📜 Compliance with Platform Policies
-- The dataset is derived from publicly available **Twitter (now X)** data.
-- You must comply with [Twitter’s Developer Agreement and Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy).
+- The dataset is derived from publicly available **BitChute and Odysee** data.
+- You must comply with the BitChute and Odysee Developer Agreement and Policy.
 - Pay special attention to data usage, privacy, and **content redistribution rules**.
 
 ### 🎓 Academic Integrity
@@ -64,11 +64,11 @@ Access to the dataset is restricted to academic and research purposes only. Plea
 ## 📬 Access Request Procedure
 
 1. **Use your institutional email** for all communications.  
-   > Requests from personal email addresses will not be considered.
+   > Requests from personal email addresses may not be ignored.
 
-2. Fill out the **[Consent Form](link-to-consent-form)**.
+2. Fill out the **[Dataset Agreement Form](https://docs.google.com/document/d/1Cb_f-xhOobgpnn_u2lOB6_m1lCHlDNCt/edit)**.
 
-3. Upload the signed consent in the **[Dataset Request Form](link-to-request-form)** along with your details.
+3. Upload the signed consent in the **[Dataset Request Form](https://docs.google.com/forms/d/1UTItZLZXqZ7h_dT73wBk8YDkMRtKItUBYV8zznsiRKk/edit)** along with your details.
 
 4. Once reviewed and approved, you will receive an email with **dataset download instructions**.
 

@@ -67,7 +67,7 @@ Access to the dataset is restricted to academic and research purposes only. Plea
 
 2. Fill out the **[Dataset Agreement Form](https://docs.google.com/document/d/1Cb_f-xhOobgpnn_u2lOB6_m1lCHlDNCt/edit)**.
 
-3. Upload the signed consent in the **[Dataset Request Form](https://docs.google.com/forms/d/1UTItZLZXqZ7h_dT73wBk8YDkMRtKItUBYV8zznsiRKk/edit)** along with your details.
+3. Upload the signed agreement in the **[Dataset Request Form](https://docs.google.com/forms/d/1UTItZLZXqZ7h_dT73wBk8YDkMRtKItUBYV8zznsiRKk/edit)** along with your details.
 
 4. Once reviewed and approved, you will receive an email with **dataset download instructions**.
 

@@ -21,8 +21,6 @@ Run [Multistage Contrastive Learning](https://github.com/videohatespeech/Implici
 
 # Dataset 
 
-The dataset can be accessed at: [ImpliHateVid Dataset](https://indianinstituteoftechindore-my.sharepoint.com/my?id=%2Fpersonal%2Fphd2101201005%5Fiiti%5Fac%5Fin%2FDocuments%2FImpliHateVid).
-
 | Properties  | Non Hate | Implicit Hate | Explicit Hate |
 | ------------- | ------------- | ------------- | ------------- |
 | Video count  | 1000 (49.78%)  | 509 (25.36%) | 500 (24.89%) |
@@ -31,3 +29,47 @@ The dataset can be accessed at: [ImpliHateVid Dataset](https://indianinstituteof
 | Total number of frames | 1,42,002 | 65,271 | 79,105 |
 | Mean number of frames | 142.002 | 128.23 | 158.21 |
 | Mean number of words | 175.404 | 85.166 | 80.326 |
+
+# 📦 Dataset Access
+
+Access to the dataset is restricted to academic and research purposes only. Please ensure compliance with the following terms before requesting access.
+
+---
+
+## ✅ Requirements for Access
+
+### 🔒 Non-Commercial Use
+- The dataset is **strictly for academic research** and **non-commercial** use.
+- **Commercial use**, whether direct or indirect, is **prohibited**.
+- You may not use the dataset to develop, train, or market commercial products or services.
+
+### 🚫 No Redistribution
+- **Redistribution is not allowed**. Do not share the dataset, in part or in full, on:
+  - Public or private repositories
+  - Online platforms
+  - Social media or forums
+- You must store the dataset in **secure environments** and prevent access by unauthorized individuals.
+
+### 📜 Compliance with Platform Policies
+- The dataset is derived from publicly available **Twitter (now X)** data.
+- You must comply with [Twitter’s Developer Agreement and Policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy).
+- Pay special attention to data usage, privacy, and **content redistribution rules**.
+
+### 🎓 Academic Integrity
+- The dataset must be used only for **legitimate academic research**.
+- Ensure your usage aligns with institutional **ethical standards**, especially regarding privacy and responsible AI practices.
+
+---
+
+## 📬 Access Request Procedure
+
+1. **Use your institutional email** for all communications.  
+   > Requests from personal email addresses will not be considered.
+
+2. Fill out the **[Consent Form](link-to-consent-form)**.
+
+3. Upload the signed consent in the **[Dataset Request Form](link-to-request-form)** along with your details.
+
+4. Once reviewed and approved, you will receive an email with **dataset download instructions**.
+
+---

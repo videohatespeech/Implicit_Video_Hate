@@ -1,6 +1,5 @@
 # ImpliHateVid:A Benchmark Dataset and Two-stage Contrastive Learning Framework for Implicit Hate Speech Detection in Videos
-
-This repository contains the codes used in the implementation of the paper.
+Published in ACL-2025, **[Link](https://aclanthology.org/2025.acl-long.842/)**  
 
 # Abstract
 The existing research has primarily focused on text and image-based hate speech detection, video-based approaches remain underexplored. In this work, we introduce a novel dataset, ImpliHateVid, specifically curated for implicit hate speech detection in videos. ImpliHateVid consists of 2,009 videos comprising 509 implicit hate videos, 500 explicit hate videos, and 1,000 non-hate videos, making it one of the first large-scale video datasets dedicated to implicit hate detection. We also propose a novel two-stage contrastive learning framework for hate speech detection in videos. In the first stage, we train modality-specific encoders for audio, text, and image using contrastive loss by concatenating features from the three encoders. In the second stage, we train cross-encoders using contrastive learning to refine multimodal representations. Additionally, we incorporate sentiment, emotion, and caption-based features to enhance implicit hate detection. We evaluate our method on two datasets, ImpliHateVid for implicit hate speech detection and another dataset for general hate speech detection in videos, HateMM dataset, demonstrating the effectiveness of the proposed multimodal contrastive learning for hateful content detection in videos and the significance of our dataset.
@@ -72,4 +71,35 @@ Access to the dataset is restricted to academic and research purposes only. Plea
 
 4. Once reviewed and approved, you will receive an email with **dataset download instructions**.
 
----
+# 📄 Related Paper
+
+You can read more about the dataset and its applications in the accompanying paper:
+
+**[ImpliHateVid: A Benchmark Dataset and Two-stage Contrastive Learning Framework for Implicit Hate Speech Detection in Videos](https://aclanthology.org/2025.acl-long.842/)**  
+
+# 📖 Citation
+
+If you use this dataset in your research, please cite our work as follows:
+
+```bibtex
+@inproceedings{rehman-etal-2025-implihatevid,
+    title = "{I}mpli{H}ate{V}id: A Benchmark Dataset and Two-stage Contrastive Learning Framework for Implicit Hate Speech Detection in Videos",
+    author = "Rehman, Mohammad Zia Ur  and
+      Bhatnagar, Anukriti  and
+      Kabde, Omkar  and
+      Bansal, Shubhi  and
+      Kumar, Dr. Nagendra",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.842/",
+    pages = "17209--17221",
+    ISBN = "979-8-89176-251-0"
+}
+}

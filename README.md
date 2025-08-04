@@ -65,7 +65,7 @@ Access to the dataset is restricted to academic and research purposes only. Plea
 1. **Use your institutional email** for all communications.  
    > Requests from personal email addresses may be ignored.
 
-2. Fill out the **[Dataset Agreement Form](https://docs.google.com/document/d/19Hkjfm64_3AkiLHn8d0oEVI7xMlAazix/edit)**.
+2. Download and fill out the **[Dataset Agreement Form](https://docs.google.com/document/d/19Hkjfm64_3AkiLHn8d0oEVI7xMlAazix/edit)**.
 
 3. Upload the signed agreement in the **[Dataset Request Form](https://docs.google.com/forms/d/1UTItZLZXqZ7h_dT73wBk8YDkMRtKItUBYV8zznsiRKk/edit)** along with your details.
 
